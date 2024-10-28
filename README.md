@@ -1,8 +1,27 @@
-# React + Vite
+# React Todo List with Dark Mode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant Todo List application built with React that includes a Dark Mode feature.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new tasks
+- Delete existing tasks
+- Toggle between light and dark modes
+- Responsive and accessible UI
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- Node.js (v14 or later)
+- npm or yarn
+
+### Installation
+
+1. Clone the repo
+
+```bash
+git clone https://github.com/yourusername/react-todo-dark-mode.git
+
